@@ -3,6 +3,11 @@
 @tailwind utilities;
 
 
+body {
+    overscroll-behavior: none;
+}
+
+
 .shadow-card{
     background-color: rgb(255, 255, 255);
     color: rgb(35, 46, 70);
